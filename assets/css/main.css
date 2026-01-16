@@ -2593,7 +2593,7 @@ section,
 
 .portfolio-details .portfolio-details-content .project-overview .project-accordion .accordion-item .accordion-body p {
   margin-bottom: 0;
-  color: color-mix(in srgb, var(--default-color), transparent 25%);
+  color: var(--default-color);
   line-height: 1.6;
 }
 
