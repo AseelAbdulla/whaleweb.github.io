@@ -2650,15 +2650,15 @@ section,
 }
 
 .portfolio-details .portfolio-details-content .cta-buttons .btn-view-project:hover {
-  background-color: color-mix(in srgb, var(--accent-color), black 15%);
+  background-color: var(--accent-color);
   transform: translateY(-3px);
   box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
 }
 
 .portfolio-details .portfolio-details-content .cta-buttons .btn-next-project {
   padding: 12px 28px;
-  background-color: color-mix(in srgb, var(--heading-color), transparent 90%);
-  color: var(--heading-color);
+  background-color: var(--heading-color);
+  color: var(--background-color);
   border-radius: 30px;
   font-weight: 500;
   transition: all 0.3s ease;
