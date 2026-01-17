@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- الصفحة الرئيسية -->
+  <url>
+    <loc>https://aseelabdulla.github.io/whaleweb/</loc>
+    <lastmod>2026-01-17</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- أقسام الموقع -->
+  <url>
+    <loc>https://aseelabdulla.github.io/whaleweb/#portfolio</loc>
+    <lastmod>2026-01-17</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://aseelabdulla.github.io/whaleweb/#services</loc>
+    <lastmod>2026-01-17</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://aseelabdulla.github.io/whaleweb/#about</loc>
+    <lastmod>2026-01-17</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://aseelabdulla.github.io/whaleweb/#contact</loc>
+    <lastmod>2026-01-17</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- المشاريع التفصيلية مع كل الصور -->
+  
+  <!-- Electronic Menu -->
+  <url>
+    <loc>https://aseelabdulla.github.io/whaleweb/projects/electronic-menu.html</loc>
+    <lastmod>2026-01-17</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://aseelabdulla.github.io/whaleweb/assets/img/portfolio/portfolio-1.png</image:loc>
+      <image:caption>Electronic Menu - Main Screenshot</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aseelabdulla.github.io/whaleweb/assets/img/portfolio/electronic-menu-2.png</image:loc>
+      <image:caption>Electronic Menu - Order Screen</image:caption>
+    </image:image>
+  </url>
+
+  <!-- MYDriver Platform -->
+  <url>
+    <loc>https://aseelabdulla.github.io/whaleweb/projects/mydriver-platform.html</loc>
+    <lastmod>2026-01-17</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://aseelabdulla.github.io/whaleweb/assets/img/portfolio/Screenshot 2025-02-02 113911.png</image:loc>
+      <image:caption>MYDriver Platform - Dashboard</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aseelabdulla.github.io/whaleweb/assets/img/portfolio/mydriver-2.png</image:loc>
+      <image:caption>MYDriver Platform - Driver List</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog Wordpress -->
+  <url>
+    <loc>https://aseelabdulla.github.io/whaleweb/projects/blog-wordpress.html</loc>
+    <lastmod>2026-01-17</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://aseelabdulla.github.io/whaleweb/assets/img/portfolio/Screenshot 2025-02-02 112805.png</image:loc>
+      <image:caption>Blog Wordpress - Main Page</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aseelabdulla.github.io/whaleweb/assets/img/portfolio/blog-2.png</image:loc>
+      <image:caption>Blog Wordpress - Post Example</image:caption>
+    </image:image>
+  </url>
+
+  <!-- SGFYemen -->
+  <url>
+    <loc>https://aseelabdulla.github.io/whaleweb/projects/sgfyemen.html</loc>
+    <lastmod>2026-01-17</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://aseelabdulla.github.io/whaleweb/assets/img/portfolio/Screenshot 2025-08-16 114326.png</image:loc>
+      <image:caption>SGFYemen - Homepage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aseelabdulla.github.io/whaleweb/assets/img/portfolio/sgf-2.png</image:loc>
+      <image:caption>SGFYemen - Projects Section</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Academic Journal -->
+  <url>
+    <loc>https://aseelabdulla.github.io/whaleweb/projects/academic-journal.html</loc>
+    <lastmod>2026-01-17</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://aseelabdulla.github.io/whaleweb/assets/img/portfolio/index1.PNG</image:loc>
+      <image:caption>Academic Journal - Issue Preview</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aseelabdulla.github.io/whaleweb/assets/img/portfolio/academic-2.png</image:loc>
+      <image:caption>Academic Journal - Editorial Board</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
